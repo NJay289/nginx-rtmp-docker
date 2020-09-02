@@ -1,2 +1,2 @@
 # nginx-rtmp-docker
-Based on:
+Based on: https://github.com/tiangolo/nginx-rtmp-docker

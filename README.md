@@ -2,7 +2,7 @@
 
 Based on: https://github.com/tiangolo/nginx-rtmp-docker
 
-I recommend using the docker-compsoe.yml for deployment.
+I recommend using the docker-compose.yml for deployment.
 
 ```
 version: '3'

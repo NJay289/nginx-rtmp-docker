@@ -14,3 +14,4 @@ services:
       - 0.0.0.0:1935:1935
     restart: unless-stopped
 ```
+Link to Dockerhub: https://hub.docker.com/repository/docker/njay289/nginx-rtmp-docker
